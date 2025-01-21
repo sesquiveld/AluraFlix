@@ -1,0 +1,108 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "titulo": "Cuando usar LET, VAR y CONST?",
+      "descripcion": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript.",
+      "url": "https://www.youtube.com/watch?v=PztCEdIJITY",
+      "imagen": "https://img.youtube.com/vi/PztCEdIJITY/hqdefault.jpg",
+      "categoria": "Front End"
+    },
+    {
+      "id": "2",
+      "titulo": "¿Qué es Javascript???",
+      "descripcion": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips.",
+      "imagen": "https://img.youtube.com/vi/GJfOSoaXk4s/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
+      "categoria": "Front End"
+    },
+    {
+      "id": "3",
+      "titulo": "Equipo FrontEnd",
+      "descripcion": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología",
+      "categoria": "Front End",
+      "url": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+      "imagen": "https://img.youtube.com/vi/rpvrLaBQwgg/hqdefault.jpg"
+    },
+    {
+      "id": "4",
+      "titulo": "Spring Framework",
+      "descripcion": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java",
+      "categoria": "Back End",
+      "url": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
+      "imagen": "https://img.youtube.com/vi/t-iqt1b2qqk/hqdefault.jpg"
+    },
+    {
+      "id": "5",
+      "titulo": "Que es SQL y NoSQL?",
+      "descripcion": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una?",
+      "categoria": "Back End",
+      "url": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
+      "imagen": "https://img.youtube.com/vi/cLLKVd5CNLc/hqdefault.jpg"
+    },
+    {
+      "id": "6",
+      "titulo": "Simplificando tu codigo JAVA",
+      "descripcion": "¿Escribir muchas variables del tipo constantes en Java te parece un proceso tedioso y que genera muchas líneas de código? ",
+      "categoria": "Back End",
+      "url": "https://www.youtube.com/watch?v=EoPvlE85XAQ",
+      "imagen": "https://img.youtube.com/vi/EoPvlE85XAQ/hqdefault.jpg"
+    },
+    {
+      "id": "7",
+      "titulo": "¿Que son las Soft Skills?2222",
+      "descripcion": "En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día.",
+      "imagen": "https://img.youtube.com/vi/vhwspfvI52k/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vhwspfvI52k",
+      "categoria": "Innovación y Gestión"
+    },
+    {
+      "id": "8",
+      "titulo": "Las 7 Soft Skillss más deseadas .",
+      "descripcion": " Quédate en este video con nosotros que vamos a explicarte la importancia de estas habilidades y porque son tan requeridas en el mercado laboral.",
+      "imagen": "https://img.youtube.com/vi/YhR7Zp8NUzE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YhR7Zp8NUzE",
+      "categoria": "Innovación y Gestión"
+    },
+    {
+      "id": "9",
+      "titulo": "Metodologias Agiles",
+      "descripcion": "En este video nuestra invitada, Andyara, nos explicará que són las muy conocidas hoy en día metodologias ágiles y nos comentará un poco sobre como aplicarlas y cuáles son los beneficios de utilizarlas en su equipo o empresa.",
+      "categoria": "Inteligencia Artificial",
+      "url": "https://www.youtube.com/watch?v=6N3OkLCfK-0",
+      "imagen": "https://img.youtube.com/vi/6N3OkLCfK-0/hqdefault.jpg"
+    },
+    {
+      "id": "10",
+      "titulo": "Desvelando los secretos del Chat GPT: La revolución de la IA",
+      "descripcion": "Ve nuestros cursos de Data Science y Programación",
+      "categoria": "Inteligencia Artificial",
+      "url": "https://www.youtube.com/embed/0_y09AwR6ns",
+      "imagen": "https://img.youtube.com/vi/0_y09AwR6ns/hqdefault.jpg"
+    },
+    {
+      "id": "11",
+      "titulo": "Domina tu flujo de trabajo con Kanban: ¡La guía definitiva para la eficiencia!",
+      "descripcion": "¿Quieres saber más? Ve nuestros cursos de Programación",
+      "categoria": "Innovación y Gestión",
+      "url": "https://www.youtube.com/embed/ew1mwLviTWY",
+      "imagen": "https://img.youtube.com/vi/ew1mwLviTWY/hqdefault.jpg"
+    },
+    {
+      "id": "12",
+      "titulo": "Empresas que aprenden",
+      "descripcion": "¿Conoces el papel del aprendizaje dentro de una organización?",
+      "imagen": "https://img.youtube.com/vi/mwNfWRsDDWE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mwNfWRsDDWE",
+      "categoria": "Front End"
+    },
+    {
+      "id": "7a8a",
+      "titulo": "Domina tu flujo de trabajo con Kanban: ¡La guía definitiva para la eficiencia",
+      "descripcion": "¿Quieres saber más? Ve nuestros cursos de Programación",
+      "imagen": "https://img.youtube.com/vi/ew1mwLviTWY/hqdefault.jpg",
+      "url": "https://www.youtube.com/embed/ew1mwLviTWY",
+      "categoria": "Innovación y Gestión"
+    }
+  ]
+}

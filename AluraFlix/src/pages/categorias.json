@@ -1,0 +1,20 @@
+
+[ 
+    {
+        "id": 0,
+        "titulo": "Front End"
+    },
+    {
+        "id": 1,
+        "titulo": "Back End"
+    },
+    {
+        "id": 2,
+        "titulo": "Innovación y Gestión"
+    },
+    {
+        "id": 3,
+        "titulo": "Inteligencia Artificial"
+    }
+    
+]
